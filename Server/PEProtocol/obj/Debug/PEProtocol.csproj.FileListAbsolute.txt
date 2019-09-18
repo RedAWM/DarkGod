@@ -1,0 +1,7 @@
+D:\Demo\DarkGod\Client\Assets\Scripts\Net\PEProtocol.dll
+D:\Demo\DarkGod\Client\Assets\Scripts\Net\PEProtocol.pdb
+D:\Demo\DarkGod\Server\PEProtocol\obj\Debug\PEProtocol.csprojAssemblyReference.cache
+D:\Demo\DarkGod\Server\PEProtocol\obj\Debug\PEProtocol.csproj.CoreCompileInputs.cache
+D:\Demo\DarkGod\Server\PEProtocol\obj\Debug\PEProtocol.csproj.CopyComplete
+D:\Demo\DarkGod\Server\PEProtocol\obj\Debug\PEProtocol.dll
+D:\Demo\DarkGod\Server\PEProtocol\obj\Debug\PEProtocol.pdb
